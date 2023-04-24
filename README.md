@@ -1,1 +1,1 @@
-# protocol
+# Empathia Protocol
